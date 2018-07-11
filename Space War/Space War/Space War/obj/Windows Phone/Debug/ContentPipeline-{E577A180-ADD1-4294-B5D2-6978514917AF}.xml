@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Polices\SpriteFont1.spritefont</Source>
+      <Name>Polices\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\SpriteFont1.xnb</Output>
+      <Time>2014-06-28T12:22:02.6933572+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Polices\PoliceScore.spritefont</Source>
+      <Name>Polices\PoliceScore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\PoliceScore.xnb</Output>
+      <Time>2014-02-28T20:19:03.1972752+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Polices\PoliceTitre.spritefont</Source>
+      <Name>Polices\PoliceTitre</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\PoliceTitre.xnb</Output>
+      <Time>2014-06-28T13:14:07.8482548+02:00</Time>
+    </Item>
+    <Item>
+      <Source>ennemi.png</Source>
+      <Name>ennemi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\ennemi.xnb</Output>
+      <Time>2013-12-17T23:47:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>arme ennemi.png</Source>
+      <Name>arme ennemi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\arme ennemi.xnb</Output>
+      <Time>2013-12-19T19:35:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>coeur.png</Source>
+      <Name>coeur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\coeur.xnb</Output>
+      <Time>2014-03-23T12:15:11.2274577+01:00</Time>
+    </Item>
+    <Item>
+      <Source>arme heros.png</Source>
+      <Name>arme heros</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\arme heros.xnb</Output>
+      <Time>2014-03-23T11:23:34.6139373+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\explosion.xnb</Output>
+      <Time>2014-03-26T13:24:21.2748987+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TousAvions.png</Source>
+      <Name>TousAvions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\TousAvions.xnb</Output>
+      <Time>2014-04-02T14:38:25.2474445+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\fond_EtoilesPetit.png</Source>
+      <Name>Backgrounds\fond_EtoilesPetit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Backgrounds\fond_EtoilesPetit.xnb</Output>
+      <Time>2014-06-27T12:38:32.2631333+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\fond_EtoilesPetit2.png</Source>
+      <Name>Backgrounds\fond_EtoilesPetit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Backgrounds\fond_EtoilesPetit2.xnb</Output>
+      <Time>2014-06-27T12:38:59.3852595+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E577A180-ADD1-4294-B5D2-6978514917AF}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space WarContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-08-22T00:08:38.1883898+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

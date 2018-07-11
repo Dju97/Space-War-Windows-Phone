@@ -1,0 +1,2 @@
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space WarContent\obj\Windows Phone\Debug\Space WarContent.contentprojResolveAssemblyReference.cache
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space WarContent\obj\Windows Phone\Debug\Space WarContent.contentprojResolveAssemblyReference.cache

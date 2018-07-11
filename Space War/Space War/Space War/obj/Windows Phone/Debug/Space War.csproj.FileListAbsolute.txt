@@ -1,0 +1,41 @@
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.dll
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.pdb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.csprojResolveAssemblyReference.cache
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.dll
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.pdb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.xap
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\SpriteFont1.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\heros.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\AvionDescend.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\AvionMonte.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\ennemi.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\missile ennemi.xnb
+C:\Users\Julien_2\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\missile.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\ennemi.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.dll
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.pdb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.csprojResolveAssemblyReference.cache
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.dll
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\Space War.pdb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\WMAppManifest.xml
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Space War.xap
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\arme ennemi.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\TousAvions.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\coeur.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\arme heros.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\explosion.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Backgrounds\fond_EtoilesPetit.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Backgrounds\fond_EtoilesPetit2.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\SpriteFont1.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\PoliceScore.xnb
+C:\Users\Duquesne\Documents\Programmation\C#\Apps WP\Space War\Space War\Space War\Space War\bin\Windows Phone\Debug\Content\Polices\PoliceTitre.xnb
