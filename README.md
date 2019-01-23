@@ -2,12 +2,11 @@
 
 # Introduction
 
-Ce jeu a été conçu en 2013 avec XNA, un moteur de jeu écrit en C#. Le moteur alterne en permanence une phase Update, qui modifie les variables des éléments du jeu et une phase Draw qui dessine les différents éléments. Toutes les classes sont structurées avec ces méthodes.
-Le jeu est divisé en 2 écrans : l'écran d'acceuil (avec ScrollingBackground et les deux boutons) et l'écran de jeu. La classe GameScreen gère la logique du jeu.
+To see how the game works and the final result, watch the video ! 
 
-# Architecture des différents éléments
+This game was conceived in 2013 with XNA, a game engine writen in C#. The engine alternates permanently a phase Update, that modifies the variables of game elements and a phase Draw that draws elements. Every classes are structured with these methods. The game is divided in 2 screens : home screen and game screen. The class GameScreen hangles game logic.
 
-Tous les éléments du jeu héritent de la classe Mere, qui leur donne les méthodes de bases pour se déplacer, se dessiner et se collisioner.
-Il y a ensuite les armes et les personnages qui sont les parents d'autres classes plus spécifiques.
+# Architecture of items
 
-Les classes ContentManager et ScreenManager permettent de gérer respectivement le chargement des différentes ressources et des transitions entre les écrans.
+Every game element inherit from the class Mere, that gives them basic methods to move, draw, and collide. There is further weapons and characters that are parents of other class more specifiq.
+Classes ContentManager and ScreenManager allow to handle the loading of ressources and transitions bewteen screens.
